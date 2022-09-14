@@ -1,5 +1,5 @@
 <script setup></script>
 
 <template>
-  <main>oii</main>
+  <main>corpo do trabalho</main>
 </template>
