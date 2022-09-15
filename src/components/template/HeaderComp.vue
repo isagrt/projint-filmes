@@ -11,6 +11,5 @@
 header span {
   padding-right: 2%;
 }
-header {
-}
+header {}
 </style>
