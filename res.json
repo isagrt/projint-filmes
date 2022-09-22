@@ -1,0 +1,403 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1n7ZGr6WeDOW4rFiQKmFel8baWH.jpg",
+            "genre_ids": [
+                12,
+                18,
+                27
+            ],
+            "id": 760741,
+            "original_language": "en",
+            "original_title": "Beast",
+            "overview": "O Dr. Nate Samuels é um homem que perdeu a mulher recentemente, e decide fazer uma viagem com as filhas para uma reserva na África do Sul, onde conheceu a esposa. Mas o que começa como uma viagem tranquila, acaba se tornando um pesadelo quando eles passam a ser perseguidos por um leão.",
+            "popularity": 4551.584,
+            "poster_path": "/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg",
+            "release_date": "2022-08-11",
+            "title": "A Fera",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+            "genre_ids": [
+                28,
+                18,
+                878
+            ],
+            "id": 629176,
+            "original_language": "en",
+            "original_title": "Samaritan",
+            "overview": "25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica.",
+            "popularity": 3264.073,
+            "poster_path": "/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg",
+            "release_date": "2022-08-25",
+            "title": "Samaritano",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1077
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 773975,
+            "original_language": "en",
+            "original_title": "End of the Road",
+            "overview": "Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender.",
+            "popularity": 1817.329,
+            "poster_path": "/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg",
+            "release_date": "2022-09-09",
+            "title": "Fim da Estrada",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 361743,
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+            "popularity": 1629.723,
+            "poster_path": "/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg",
+            "release_date": "2022-05-24",
+            "title": "Top Gun: Maverick",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
+            "genre_ids": [
+                27,
+                53,
+                28,
+                12,
+                80,
+                9648,
+                18,
+                10752
+            ],
+            "id": 927341,
+            "original_language": "en",
+            "original_title": "Hunting Ava Bravo",
+            "overview": "Buddy King, um bilionário excêntrico, passa seu tempo caçando pessoas em sua propriedade escondido nas montanhas nevadas. Mas sua última vítima, Ava Bravo, não será um alvo fácil.",
+            "popularity": 1336.042,
+            "poster_path": "/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg",
+            "release_date": "2022-04-01",
+            "title": "Caçando Ava Bravo",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744276,
+            "original_language": "en",
+            "original_title": "After Ever Happy",
+            "overview": "Em After 4 – Depois da Esperança, a relação entre Tessa Young (Josephine Langford) e Hardin Scott (Hero Fiennes-Tiffin) passou por muitas dificuldades, fortalecendo sua união, e quando a verdade sobre suas famílias veio à tona, os dois descobriram que não são tão diferentes quanto pensavam. Tessa não é mais aquela menina doce e inocente que chegou à faculdade, e Hardin não é mais o garoto cruel por quem ela se apaixonou.",
+            "popularity": 972.465,
+            "poster_path": "/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg",
+            "release_date": "2022-08-24",
+            "title": "After: Depois da Promessa",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/noCgyITVoRxC3huC9zSOQq23sVr.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 821420,
+            "original_language": "en",
+            "original_title": "Catch the Fair One",
+            "overview": "",
+            "popularity": 573.519,
+            "poster_path": "/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg",
+            "release_date": "2022-02-11",
+            "title": "Catch the Fair One",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/as4jvr6PF7Wfs0RyUl5bOJcB3yt.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 626735,
+            "original_language": "en",
+            "original_title": "Dog",
+            "overview": "Dois ex-Rangers do Exército são emparelhados contra sua vontade na viagem de uma vida. Briggs e Lulu correm pela costa do Pacífico para chegar a tempo ao funeral de um companheiro soldado.",
+            "popularity": 557.497,
+            "poster_path": "/gln0b5rezteLuyv9kO1q0h0vqnA.jpg",
+            "release_date": "2022-02-17",
+            "title": "Dog  A Aventura de Uma Vida",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 882
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 682507,
+            "original_language": "en",
+            "original_title": "Where the Crawdads Sing",
+            "overview": "Baseado no romance de Delia Owens, Um Lugar Bem Longe Daqui acompanha duas linhas temporais: A primeira sobre as aventuras da jovem Kya enquanto vive isolada em uma pequena cidade da Carolina do Norte. E a segunda é sobre a investigação de um assassinato de uma celebridade local na cidade fictícia de Barkley Cove.",
+            "popularity": 424.692,
+            "poster_path": "/nLIK8KVcPT6u8Za8n0xzY85i8i3.jpg",
+            "release_date": "2022-07-15",
+            "title": "Um Lugar Bem Longe Daqui",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 336
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744275,
+            "original_language": "en",
+            "original_title": "After We Fell",
+            "overview": "Embora a história de amor entre Tessa Young e Hardin Scott tenha passado por muitas complicações, desta vez o problema é mais complexo do que nunca. Agora que Tessa tomou uma das decisões mais importantes de sua vida, tudo mudou completamente. Os segredos que vêm à tona sobre suas famílias colocam em risco seu relacionamento e seu futuro juntos. Embora a jovem saiba que Hardin a ama, os dois estão cercados de ciúme, ódio e perdão. Será que o amor entre os dois será o suficiente para manter seu relacionamento?",
+            "popularity": 402.13,
+            "poster_path": "/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg",
+            "release_date": "2021-09-01",
+            "title": "After: Depois do Desencontro",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1913
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AcGvSRSwQcThKysnD4ohR18NoAt.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 799876,
+            "original_language": "en",
+            "original_title": "The Outfit",
+            "overview": "Leonard, um alfaiate inglês costumava fazer ternos na mundialmente famosa Savile Row de Londres. Mas depois de uma tragédia pessoal, ele acabou em Chicago, operando uma pequena alfaiataria em uma parte difícil da cidade, onde ele faz roupas bonitas para as únicas pessoas ao redor que podem pagá-las: uma família de gangsters cruéis.",
+            "popularity": 387.225,
+            "poster_path": "/hKu1P98TtARG8wz5VSXIe28vfrG.jpg",
+            "release_date": "2022-03-03",
+            "title": "O Alfaiate",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBu6blwnOA75Hz61QHrNe8unUNw.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 975714,
+            "original_language": "en",
+            "original_title": "Collision",
+            "overview": "Em uma corrida contra o tempo, um empresário corrupto e sua esposa socialite têm apenas um dia para salvar a filha deles de um chefão do crime.",
+            "popularity": 379.248,
+            "poster_path": "/we29hZxAupvAOkmceHTUkos8RmS.jpg",
+            "release_date": "2022-06-16",
+            "title": "Colisão",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oasoFPah6e5kKHXEWOUVVgDoIva.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 829557,
+            "original_language": "en",
+            "original_title": "365 Days: This Day",
+            "overview": "Em 365 Dias: Hoje, após os acontecimentos de 365 Dias, Laura Biel se casa com Don Massimo, o chefe da máfia siciliana que a sequestrou. Sua vida parece um conto de fadas: ela tem um marido amoroso, uma casa linda e um bebê a caminho. Mas Massimo tem muitos inimigos, e eles sabem que a melhor maneira de lhe causar dor é ferir aqueles que ama. Depois de um mal-entendido conjugal, Laura e sua melhor amiga, Olga, fogem da Sicília para a Polônia natal. Mas sem a proteção do marido, Laura é sequestrada por Marcelo \"Nacho\" Matos, filho do chefe da máfia rival, e levada para as Ilhas Canárias pela máfia espanhola. Agora Massimo moverá qualquer montanha para resgatá-la. Mas o que o chefe da máfia siciliana não espera é que Laura começa a ter sentimentos pelo seu raptor, lindo e extremamente perigoso, enquanto é mantida refém.",
+            "popularity": 374.452,
+            "poster_path": "/3104lH1U1XfUXo0ZLawnIjXS0NC.jpg",
+            "release_date": "2022-04-27",
+            "title": "365 Dias: Hoje",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 833
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCaqCvYn48b3lfGKGnUdVAE1yeB.jpg",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "id": 814800,
+            "original_language": "en",
+            "original_title": "Goodnight Mommy",
+            "overview": "Chegando à casa de campo da mãe, os filhos gêmeos a encontram com o rosto coberto por uma bandagem – resultado, segundo ela, de uma cirurgia plástica recente. À medida em que o comportamento dela se torna cada vez mais errático e incomum, contudo, um pensamento horrível vai se enraizando na mente dos meninos: a suspeita de que a mulher por baixo da bandagem não é a mãe deles.",
+            "popularity": 352.565,
+            "poster_path": "/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg",
+            "release_date": "2022-09-16",
+            "title": "Boa Noite, Mamãe!",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0JpLYCadyUCR4KwxN7hrzFE968.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 811631,
+            "original_language": "en",
+            "original_title": "Infinite Storm",
+            "overview": "Ao subir o Monte Washington em Nova Hampshire, uma experiente alpinista decide voltar antes de chegar ao cume enquanto uma nevasca se aproxima. Mas ao descer, ela encontra um homem sozinho e desamparado, e se encarrega de tirar os dois da montanha antes que anoiteça e eles sucumbam à tempestade. Baseado em uma história real.",
+            "popularity": 342.715,
+            "poster_path": "/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg",
+            "release_date": "2022-03-25",
+            "title": "Tempestade Infinita",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 537915,
+            "original_language": "en",
+            "original_title": "After",
+            "overview": "Tessa Young é uma jovem com uma vida simples, ótimas notas na escola, muitos amigos e um bom namorado. Todos os próximos passos de sua vida já estão planejados, mas as coisas mudam quando ela conhece um homem atraente e cheio de segredos sombrios.",
+            "popularity": 330.85,
+            "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+            "release_date": "2019-04-11",
+            "title": "After",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 7276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kaoTwHrJDmCPDLriN68pjlgx4R.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10402
+            ],
+            "id": 614934,
+            "original_language": "en",
+            "original_title": "Elvis",
+            "overview": "A história de vida de Elvis Presley vista através do relacionamento complicado com seu empresário enigmático, o coronel Tom Parker.",
+            "popularity": 305.969,
+            "poster_path": "/mYLw6IcIdvDUdf2MxJH50zV2a8c.jpg",
+            "release_date": "2022-06-22",
+            "title": "Elvis",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 324786,
+            "original_language": "en",
+            "original_title": "Hacksaw Ridge",
+            "overview": "Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.",
+            "popularity": 304.332,
+            "poster_path": "/88sCL8OQMoieKpHClqRCCbcgH6w.jpg",
+            "release_date": "2016-10-07",
+            "title": "Até o Último Homem",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 11429
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 705861,
+            "original_language": "en",
+            "original_title": "Hustle",
+            "overview": "Um olheiro de basquete azarado encontra um jogador com potencial de sucesso e se esforça para provar que ambos merecem chegar à NBA.",
+            "popularity": 299.108,
+            "poster_path": "/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg",
+            "release_date": "2022-06-03",
+            "title": "Arremessando Alto",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1571
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bAup7FGUlmNVOuhZFlLgmDPo0Eg.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 345938,
+            "original_language": "en",
+            "original_title": "The Shack",
+            "overview": "Depois de sofrer uma tragédia familiar, Mack Phillips (Sam Worthington) entra em uma profunda depressão, que o faz questionar suas crenças mais íntimas. Diante de uma crise de fé, ele recebe uma carta misteriosa que o convida para ir a uma cabana abandonada. Mack encontra então verdades significativas que transformarão seu entendimento sobre a tragédia que abalou sua família e sua vida mudará para sempre.",
+            "popularity": 297.171,
+            "poster_path": "/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg",
+            "release_date": "2017-03-03",
+            "title": "A Cabana",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1766
+        }
+    ],
+    "total_pages": 3297,
+    "total_results": 65922
+}

@@ -6,11 +6,16 @@
     :ellipsis="false"
     @select="handleSelect"
   >
-    <el-menu-item index="0">LOGO</el-menu-item>
+    <el-menu-item index="0">Marisa Filmes</el-menu-item>
     <div class="flex-grow" />
-    <el-menu-item index="1">Processing Center</el-menu-item>
+    <el-autocomplete
+    v-model="state"
+    :fetch-suggestions="querySearchAsync"
+    placeholder="Please input"
+    @select="handleSelect"
+  />
     <el-sub-menu index="2">
-      <template #title>Workspace</template>
+      <template #title>Categorias</template>
       <el-menu-item index="2-1">item one</el-menu-item>
       <el-menu-item index="2-2">item two</el-menu-item>
       <el-menu-item index="2-3">item three</el-menu-item>
@@ -25,12 +30,12 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue'
+import { ref } from "vue";
 
-const activeIndex = ref('1')
-const handleSelect = (key: string, keyPath: string[]) => {
-  console.log(key, keyPath)
-}
+const activeIndex = ref("1");
+const handleSelect = (key: string, keyPath: string) => {
+  console.log(key, keyPath);
+};
 </script>
 
 <style>
@@ -38,4 +43,3 @@ const handleSelect = (key: string, keyPath: string[]) => {
   flex-grow: 1;
 }
 </style>
-
