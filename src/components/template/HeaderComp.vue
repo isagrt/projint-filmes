@@ -1,19 +1,12 @@
 <template>
-  <el-menu
-    :default-active="activeIndex"
-    class="el-menu-demo"
-    mode="horizontal"
-    :ellipsis="false"
-    @select="handleSelect"
-  >
-    <el-menu-item index="0">Marisa Filmes</el-menu-item>
+  <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" :ellipsis="false"
+    @select="handleSelect">
+    <Router-link to="/">
+      <el-menu-item index="0">Marisa Filmes</el-menu-item>
+    </Router-link>
     <div class="flex-grow" />
-    <el-autocomplete
-    v-model="state"
-    :fetch-suggestions="querySearchAsync"
-    placeholder="Please input"
-    @select="handleSelect"
-  />
+    <el-autocomplete v-model="state" :fetch-suggestions="querySearchAsync" placeholder="Please input"
+      @select="handleSelect" />
     <el-sub-menu index="2">
       <template #title>Categorias</template>
       <el-menu-item index="2-1">item one</el-menu-item>
